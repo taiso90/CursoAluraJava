@@ -1,0 +1,8 @@
+
+public class testa_variaveis {
+
+	public static void main(String[]args) {
+		System.out.println("ola teste");
+		
+	}
+}

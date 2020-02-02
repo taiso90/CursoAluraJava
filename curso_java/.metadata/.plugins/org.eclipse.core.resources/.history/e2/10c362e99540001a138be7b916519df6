@@ -1,0 +1,13 @@
+
+
+public class variavel_doble {
+	public static void main(String[] args) {
+	
+		double salario;
+		salario = 1250.80;
+		System.out.println("Meu salario é " + salario);
+		
+		double idade = 37;
+	}
+
+}

@@ -1,0 +1,15 @@
+package sintaxe_variaveis_e_fluxo;
+
+public class testaCondicional {
+	public static void main(String[] args) {
+		System.out.println("testa condicional");
+		int idade = 20;
+
+		if (idade >= 18) {
+			System.out.println("maior de idade");
+		} else {
+			System.out.println("Menor de idade");
+		}
+	}
+
+}
